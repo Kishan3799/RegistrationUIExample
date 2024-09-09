@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login&amp;Registration</string>
+    <string name="sign_up">Sign Up for Free</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="sign_in">Sign in to Your Account</string>
+</resources>
